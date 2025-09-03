@@ -2,7 +2,7 @@
 
 Beginner-friendly ML project to predict **median house value** using the **California Housing** dataset from scikit-learn.
 
-**Author:** ITHARAJU RAKSHITHA  
+**Author:** Komali Sai Sree Devaki  
 **College:** Sreenidhi Institute of Science and Technology
 
 ## Includes:
